@@ -14,19 +14,8 @@ This repository contains a Spring Boot application that implements a simple CRUD
 
 ## Your Assignment
   The Project should follow the following structure:
-Project Structure
-├── src/
-│   ├── main/
-│   │   ├── java/com/siemens/internship/
-│   │   │   ├── controller/
-│   │   │   ├── model/
-│   │   │   ├── repository/
-│   │   │   ├── service/
-│   │   │   └── Application.java
-│   │   └── resources/
-│   └── test/
-├── pom.xml
-└── README.md
+![image](https://github.com/user-attachments/assets/ab45f225-ff1f-4ff7-bbaa-3d5d0c21e7b1)
+
 ⓘ
 ##  You will have to:
 1. Fix all logical errors while maintaining the same functionality
