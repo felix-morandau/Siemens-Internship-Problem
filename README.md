@@ -33,5 +33,6 @@ This repository contains a Spring Boot application that implements a simple CRUD
       HINT: You are free to modify the function and variables as much as you want :)
 
 
-You can zip your solution and send it back to us!
-
+Copy the project and make the solution public on your personal GitHub.
+Provide us the GitHub URL via email.
+(Don't forget to make the repository PUBLIC 😁)
